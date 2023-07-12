@@ -12,7 +12,7 @@ For running the backend:
 Clone the project
 
 ```bash
-  git clone https://github.com/atharvabhide/DevFinder.git
+  git clone https://github.com/dhananjay-deshmukh/DevFinder.git
 ```
 
 Go to the project directory
@@ -86,6 +86,7 @@ DevFinder's frontend should be up and running on port 5173
 - [@dhananjay-deshmukh](https://www.github.com/dhananjay-deshmukh)
 - [@atharvabhide](https://www.github.com/atharvabhide)
 - [@Aakash](https://www.github.com/aakvshh)
+- [@Aryan-Sawale](https://www.github.com/Aaryan-Sawale)
 
 
 
